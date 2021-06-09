@@ -2,7 +2,6 @@
 
 ### expansive cards example
 
-- responsive css
 - addEventListener
 - querySelectorAll
 - classList (add and remove)
