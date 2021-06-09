@@ -5,6 +5,7 @@
 - addEventListener
 - querySelectorAll
 - classList (add and remove)
+- display flex
 
 
 
